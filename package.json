@@ -1,0 +1,25 @@
+{
+  "name": "nameasnumber",
+  "version": "1.0.0",
+  "description": "Your name as a Number (Coding Task)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isjxn/yournameasnumber.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Jan Niklas Diederich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isjxn/yournameasnumber/issues"
+  },
+  "homepage": "https://github.com/isjxn/yournameasnumber#readme",
+  "dependencies": {
+    "mocha": "^9.2.1"
+  }
+}
